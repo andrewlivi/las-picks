@@ -6343,7 +6343,7 @@ $data[406]['date'] = "2016-02-29";
 $data[406]['runslinux']['pick'][0]['name'] = "Soda Can Solar Collector";
 $data[406]['runslinux']['pick'][0]['url'] = "http://www.solarair.livotel.com/";
 
-$data[406]['desktopapp']['pick'][0]['name'] = "N1 – The extensible, open source mail client.";
+$data[406]['desktopapp']['pick'][0]['name'] = "N1 - The extensible, open source mail client.";
 $data[406]['desktopapp']['pick'][0]['url'] = "https://www.nylas.com/N1/";
 
 $data[406]['spotlight']['pick'][0]['name'] = "Password Generation on Linux";
@@ -6362,15 +6362,11 @@ $data[407]['runslinux']['pick'][0]['url'] = "https://youtu.be/5mPanjv50TM?t=2m47
 
 $data[407]['desktopapp']['pick'][0]['name'] = "Google Play Music Desktop Player";
 $data[407]['desktopapp']['pick'][0]['url'] = "http://www.googleplaymusicdesktopplayer.com/";
-$data[407]['desktopapp']['pick'][0]['name'] = "MarshallOfSound";
-$data[407]['desktopapp']['pick'][0]['url'] = "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-";
-$data[407]['desktopapp']['pick'][0]['name'] = "Upload music – Google Play Music";
-$data[407]['desktopapp']['pick'][0]['url'] = "https://play.google.com/music/listen?u=0#/manager";
 
-$data[407]['spotlight']['pick'][0]['name'] = "VideoLAN – VLMC, open source video editor";
+$data[407]['spotlight']['pick'][0]['name'] = "VideoLAN - VLMC, open source video editor";
 $data[407]['spotlight']['pick'][0]['url'] = "https://www.videolan.org/vlmc/";
 
-$data[406]['android']['pick'][0]['name'] = "Episode did not include a pick";
-$data[406]['android']['pick'][0]['url'] = "0";
+$data[407]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[407]['android']['pick'][0]['url'] = "0";
 
 ?>
